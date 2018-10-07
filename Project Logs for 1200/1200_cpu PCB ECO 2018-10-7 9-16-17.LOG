@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=2DB Pin=L17-2
+Removed Pin From Net: NetName=10DB Pin=L18-2
+Added Pin To Net: NetName=2DB Pin=U2-5
+Added Pin To Net: NetName=10DB Pin=U2-6
+Added Pin To Net: NetName=NetL17_2 Pin=L17-2
+Added Pin To Net: NetName=NetL17_2 Pin=U2-12
+Added Net: Name=NetL17_2
+Added Pin To Net: NetName=NetL18_2 Pin=L18-2
+Added Pin To Net: NetName=NetL18_2 Pin=U2-11
+Added Net: Name=NetL18_2
